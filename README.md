@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nlausch
 - 👀 I’m interested in to bring structures together with awesome UX
 - 🌱 I’m currently learning SharePoint
-- 📫 How to reach me nico.lausch@fam.de
 
 <!---
 nlausch/nlausch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
